@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package etu001982.framework;;
+=======
+package FrameWork.src;
+>>>>>>> sprint5m
 
 public class ModelViews {
     private String view;
