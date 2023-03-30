@@ -1,4 +1,4 @@
-package FrameWork.src;
+package etu001982.framework;;
 
 public class ModelViews {
     private String view;
