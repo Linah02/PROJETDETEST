@@ -12,4 +12,13 @@ version="2.4">
         <servlet-name>ProcessRequest</servlet-name>
         <url-pattern>/url</url-pattern>
     </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>View</servlet-name>
+        <servlet-class>View</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>View</servlet-name>
+        <url-pattern>/urls</url-pattern>
+    </servlet-mapping>
 </web-app>
