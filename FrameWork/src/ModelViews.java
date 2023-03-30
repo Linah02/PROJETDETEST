@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 package etu001982.framework;;
 =======
 package FrameWork.src;
 >>>>>>> sprint5m
+=======
+package FrameWork.src;
+>>>>>>> parent of cebd26d (modifs4)
 
 public class ModelViews {
     private String view;
